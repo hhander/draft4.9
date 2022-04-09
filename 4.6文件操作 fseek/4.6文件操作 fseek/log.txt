@@ -1,0 +1,10 @@
+file:C:\Users\yyyyy\Desktop\4.6文件操作 fseek\4.6文件操作 fseek\test.c,line:104,date:Apr  7 2022,time:09:45:24,i=0
+file:C:\Users\yyyyy\Desktop\4.6文件操作 fseek\4.6文件操作 fseek\test.c,line:104,date:Apr  7 2022,time:09:45:24,i=1
+file:C:\Users\yyyyy\Desktop\4.6文件操作 fseek\4.6文件操作 fseek\test.c,line:104,date:Apr  7 2022,time:09:45:24,i=2
+file:C:\Users\yyyyy\Desktop\4.6文件操作 fseek\4.6文件操作 fseek\test.c,line:104,date:Apr  7 2022,time:09:45:24,i=3
+file:C:\Users\yyyyy\Desktop\4.6文件操作 fseek\4.6文件操作 fseek\test.c,line:104,date:Apr  7 2022,time:09:45:24,i=4
+file:C:\Users\yyyyy\Desktop\4.6文件操作 fseek\4.6文件操作 fseek\test.c,line:104,date:Apr  7 2022,time:09:45:24,i=5
+file:C:\Users\yyyyy\Desktop\4.6文件操作 fseek\4.6文件操作 fseek\test.c,line:104,date:Apr  7 2022,time:09:45:24,i=6
+file:C:\Users\yyyyy\Desktop\4.6文件操作 fseek\4.6文件操作 fseek\test.c,line:104,date:Apr  7 2022,time:09:45:24,i=7
+file:C:\Users\yyyyy\Desktop\4.6文件操作 fseek\4.6文件操作 fseek\test.c,line:104,date:Apr  7 2022,time:09:45:24,i=8
+file:C:\Users\yyyyy\Desktop\4.6文件操作 fseek\4.6文件操作 fseek\test.c,line:104,date:Apr  7 2022,time:09:45:24,i=9
